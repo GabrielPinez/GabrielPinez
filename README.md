@@ -49,7 +49,7 @@ Estudante de Informática no **Cotuca**, atualmente focado em mergulhar fundo no
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielPinez&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielPinez&show_icons=true&theme=dark" height="165" />
 </p>
 
 <br>
