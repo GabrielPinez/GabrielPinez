@@ -15,12 +15,10 @@
 <h2>Sobre mim</h2>
 ## 👨‍💻 Sobre mim
 
-Estudante de Informática no **Cotuca**, atualmente focado em mergulhar fundo no universo da programação. Explorando a lógica e a construção de software com **Python** (e expandindo para Java em breve). 
+Estudante de Informática no **Cotuca**, atualmente focado em mergulhar fundo no universo da programação. Explorando a lógica e a construção de software com **Python e java**. 
 
 * 🎓 Cursando o primeiro ano técnico em Informática.
 * 🚀 Desenvolvendo projetos práticos e estruturando ideias de software de longo prazo (com foco em segurança e análise de redes).
-* 🎸 Nas horas vagas, fã de tocar guitarra e curtir um bom rock/metal.
-* 🎧 Sempre em busca de novos desafios técnicos e criativos.
 
 ### 🛠️ Tecnologias e Ferramentas
 
